@@ -44,6 +44,7 @@ else
                         <th><button class="btn" type="button" id="deleteAcc">Delete</button></th>
                         <th><button><a href="insert.php">Add Product</span></a></button></th>
                         <th><button><a href="export.php">Export Data</span></a></button></th>
+                        <th><button><a href="import-form.php">Import Data</span></a></button></th>
 
                         <th style = "color: white;  font-size: 15px;">&nbsp;&nbsp;&nbsp;Login as <?=$user_name?></th>
                         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,9 +52,8 @@ else
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        
+                        
                             
                         <a href = "logout.php"><input type="image" src = "image/logout.png" width="120"></a></th>                      
                     </tr>
